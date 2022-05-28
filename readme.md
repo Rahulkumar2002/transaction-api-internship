@@ -1,5 +1,22 @@
 # Transaction-Recording-Platform-API :
 
+### Inside .env file : 
+```
+ # Database variables : 
+
+ DB_USER = 
+ DB_PASSWORD =  
+ DB_HOST  = 
+ DB_NAME = transaction-app
+
+ # CryptoJs : 
+
+ PASS_SEC =  
+
+ # Json Web Token Key : 
+
+ JWT_SEC = 
+```
 ## Registration and Login using JWT :
 
 ### For registration "localhost:8080/v1/users/register" , It is a "POST" method :
