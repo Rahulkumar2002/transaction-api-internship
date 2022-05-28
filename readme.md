@@ -41,6 +41,8 @@
         In output you will get your username , currentBalance , accessToken , id , createdAt.
        ---------------- Note : Copy accessToken somewhere you will need it later. ----------------
 
+## For Transactions : 
+
 ### For credit "localhost:8080/v1/transactions/credit" , It is a "PATCH" method:
 
          Note :  Don't forget to add a "token" key and value  = Bearer <acessToken(copied previously inside headers)>
